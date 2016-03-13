@@ -1,0 +1,9 @@
+C:\ForPMI1_2\Машинное моделирование\Model\Model\bin\Debug\Model.exe.config
+C:\ForPMI1_2\Машинное моделирование\Model\Model\bin\Debug\Model.exe
+C:\ForPMI1_2\Машинное моделирование\Model\Model\bin\Debug\Model.pdb
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.Properties.Resources.resources
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.exe
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.pdb
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\ForPMI1_2\Машинное моделирование\Model\Model\obj\Debug\Model.Form1.resources
